@@ -44,11 +44,17 @@ class Programmer
   <img src = "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"> <img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src ="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
 </p>
 
+<p align="left">
+  📈 Status: 
+</p>
+
 <div align="center">
   <p align="left">
       <a href="https://github.com/Lavosierdq">
            <img src="https://github-readme-stats.vercel.app/api?username=Lavosierdq&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+	   </br>
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavosierdq&langs_count=7&theme=synthwave"/>
+	  </br>
            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lavosierdq&langs_count=7&theme=synthwave"/>
     </a>
     
