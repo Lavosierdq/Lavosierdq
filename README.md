@@ -3,10 +3,19 @@
       <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-              width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
+# 👨🏾‍💻 Olá Me chamo Lavosier
+
+```ruby
+class Programmer
+
+	def initialize() 
+```
+
 <p align="left"> 
-      👨🏾‍💻 <strong>Olá Me chamo Lavosier </strong>👨🏾‍💻.<br>
-      Eterno Estudante de Tecnologia e Programação
+      
+      
 </p>
+
 
 <p align="left">
       🖥️ Languages:
