@@ -48,8 +48,8 @@ class Programmer
   <p align="left">
       <a href="https://github.com/Lavosierdq">
            <img src="https://github-readme-stats.vercel.app/api?username=Lavosierdq&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavosierdq&layout=compact&langs_count=7&theme=synthwave"/>
-           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lavosierdq&layout=compact&langs_count=7&theme=synthwave"/>
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavosierdq&langs_count=7&theme=synthwave"/>
+           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lavosierdq&langs_count=7&theme=synthwave"/>
     </a>
     
       
