@@ -11,12 +11,6 @@ class Programmer
 	def initialize() 
 ```
 
-<p align="left"> 
-      
-      
-</p>
-
-
 <p align="left">
       🖥️ Languages:
 </p>   
@@ -57,13 +51,10 @@ class Programmer
 	  </br>
            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lavosierdq&langs_count=7&theme=synthwave"/>
     </a>
-    
       
   </p>
 </div>
 
- 
-      
 <p align="left">
   💌 Contato: ⤵️
 </p>
@@ -77,6 +68,7 @@ class Programmer
   
 </p>
 
+ 
 ```ruby 
 end 
 
