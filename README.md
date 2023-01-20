@@ -49,7 +49,7 @@ class Programmer
 	   </br>
            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lavosierdq&langs_count=8&theme=synthwave"/>
 	  </br>
-           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Lavosierdq&langs_count=7&theme=synthwave"/>
+           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lavosierdq&langs_count=7&theme=synthwave"/>
     </a>
       
   </p>
